@@ -12,7 +12,8 @@ Proviene del náhuatl y significa **Sangre Nueva**
 
 http://aulex.org/nah-es/?busca=yestli
 
-_¿Que componentes principales tiene?_
+_¿Que componentes principales tiene **Yestli**?_
 
 Arduino            //Donde programamos la parte del dispositivo **Yestli**
+
 MAX30100           //Sensor que nos ayuda a leer el pulso y la oxigenación   
