@@ -1,6 +1,6 @@
 # Yestli-Proyect
 
-[![Progreso](https://img.shields.io/badge/Progreso-5%25-green.svg?style=flat-square)]()
+[![Progreso](https://img.shields.io/badge/Progreso-5%25-green.svg)]()
 
 ### Yestli
 
