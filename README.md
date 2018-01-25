@@ -8,7 +8,7 @@ Es un aparato capáz de leer el pulso cardíaco, el nivel de oxigenación en la 
 
 _¿De donde proviene el nombre de **Yestli**?_
 
-Proviene del náhuatl y significa **Sangre Nueva**
+Proviene del náhuatl y significa _**Sangre Nueva**_
 
 http://aulex.org/nah-es/?busca=yestli
 
