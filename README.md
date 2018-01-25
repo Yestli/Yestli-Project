@@ -2,11 +2,11 @@
 
 # Yestli
 
-##_¿Que es **Yestli**?_
+## _¿Que es **Yestli**?_
 
 Es un aparato capáz de leer el pulso cardíaco, el nivel de oxigenación en la sangre y calcular la temperatura corporal, enviando todas estas señales a un smartphone.
 
-##_¿Que componentes principales tiene **Yestli**?_
+## _¿Que componentes principales tiene **Yestli**?_
 
 Arduino            //Donde programamos la parte del dispositivo **Yestli**
 
