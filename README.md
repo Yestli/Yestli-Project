@@ -23,7 +23,9 @@ Fuente: http://aulex.org/nah-es/?busca=yestli
 ## _Progreso de Yestli_
 
 Hay avances en la applicación y se esta desarollando el Yestli Device (el encargado de recopilar los datos)
+
 Integración con pantalla LCD
+
 Librería para el LCD
 
 28/01/2018
